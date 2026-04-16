@@ -68,12 +68,6 @@ activities = {
         "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
         "max_participants": 18,
         "participants": ["ava@mergington.edu", "lucas@mergington.edu"]
-    },
-    "Science Club": {
-        "description": "Explore physics, chemistry, and biology through experiments",
-        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
-        "max_participants": 20,
-        "participants": ["mason@mergington.edu", "charlotte@mergington.edu"]
     }
 }
 
